@@ -29,4 +29,5 @@ const booleans = [
    
 ]
 console.log(booleans)
+const x = 6 + 1 // arithmetic operator
 
