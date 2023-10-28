@@ -8,4 +8,5 @@ let x; // declering varible by keyword
 let y = " s" ;// can assign value to variabe by = (equal) operater
 console.log(x ,y)
 let name = "suba"
+console.log("90")
 
